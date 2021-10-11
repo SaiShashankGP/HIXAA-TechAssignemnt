@@ -1,2 +1,2 @@
 # HIXAA-TechAssignemnt
-This repository is to upload the technical assignment and share it to the evaluators
+This is the repository to upload code and documentation for HIXAA Technologies Technical assignment.
